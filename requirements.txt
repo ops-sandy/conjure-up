@@ -1,5 +1,5 @@
 bundle-placement==0.0.1
-Jinja2==2.9.6
+Jinja2==2.11.3
 juju==0.4.2
 juju-wait==2.5.1
 prettytable==0.7.2
